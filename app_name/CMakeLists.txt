@@ -1,7 +1,5 @@
 
 #find_package(spdlog CONFIG REQUIRED)
-
-
 set(EXEC_NAME app_name)
 add_executable(${EXEC_NAME})
 
